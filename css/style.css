@@ -15,7 +15,10 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: var(--primary);
+    background-color: var(--light);
+    width: auto;
+    max-width: 100%;
+    max-height: auto;
     
 }}
 
